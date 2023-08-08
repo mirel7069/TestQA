@@ -1,0 +1,6 @@
+a = input()
+print('первый')
+b = input()
+print('второй')
+с = input()
+print('третий')
